@@ -1,0 +1,24 @@
+{
+  "name": "vendingpython",
+  "version": "0.0.1",
+  "description": "POC for socket io with Unity",
+  "main": "server/server.js",
+  "scripts": {
+  
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "albert"
+  ],
+  "repository": {
+    "type": "git"
+  },
+  "author": "albert",
+  "license": "",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.3.6",
+    "socket.io-client": "^1.3.6"
+  }
+}
