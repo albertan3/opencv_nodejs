@@ -15,6 +15,9 @@
   "repository": {
     "type": "git"
   },
+  "engines": {
+    "node": "6.9.4"
+  },
   "author": "albert",
   "license": "",
   "dependencies": {
