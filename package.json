@@ -1,8 +1,8 @@
 {
   "name": "albertahn",
   "version": "0.0.1",
-  "description": "POC for socket io with Unity",
-  "main": "server/server.js",
+  "description": "opencv",
+  
   "scripts": {
   
     "start": "node server/server.js",
