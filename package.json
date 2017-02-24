@@ -1,8 +1,8 @@
 {
-  "name": "edi-cam",
+  "name": "albertahn",
   "private": true,
   "scripts": {
-    "start": "node server.js"
+    "start": "node /server/server.js"
   },
   "dependencies": {
     "express": "4.10.1",
