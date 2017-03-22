@@ -1,8 +1,11 @@
 {
-  "name": "albertahn",
+  "name": "testalbert",
   "private": true,
   "scripts": {
     "start": "node /server/server.js"
+  },
+  "engines": {
+    "node": "6.5.0"
   },
   "dependencies": {
     "express": "4.10.1",
